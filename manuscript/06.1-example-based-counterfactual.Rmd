@@ -12,7 +12,7 @@ set.seed(42)
 
 A counterfactual explanation describes a causal situation in the form: "If X had not occurred, Y would not have occurred".
 For example: "If I hadn't taken a sip of this hot coffee, I wouldn't have burned my tongue".
-Event Y is that I burned my tongue;
+Event Y is that I burned my tongue; 
 cause X is that I had a hot coffee.
 Thinking in counterfactuals requires imagining a hypothetical reality that contradicts the observed facts (for example, a world in which I have not drunk the hot coffee), hence the name "counterfactual".
 The ability to think in counterfactuals makes us humans so smart compared to other animals.
